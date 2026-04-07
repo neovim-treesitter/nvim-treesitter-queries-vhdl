@@ -1,7 +1,7 @@
 {
-  "lang": "vhdl",
   "url": "https://github.com/jpt13653903/tree-sitter-vhdl",
   "semver": false,
   "parser_version": "c2d9be3d5ab7fb2cae8ad5ae604cd3606a4af0f2",
-  "location": null
+  "location": null,
+  "lang": "vhdl"
 }
